@@ -59,6 +59,7 @@ public class TestNGPractice1 {
 	@Test(priority=9,groups="General")
 	public void submit() {
 	driver.findElement(By.xpath("//input[@class='btn btn-primary']")).click();
+	System.out.println("done1");
 	}
 	
 	//@AfterMethod

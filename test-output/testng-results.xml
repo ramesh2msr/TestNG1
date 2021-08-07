@@ -2,113 +2,113 @@
 <testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-08T00:26:56 SGT" name="TestNG" finished-at="2021-08-08T00:27:27 SGT" duration-ms="30899">
+  <suite started-at="2021-08-08T01:57:34 SGT" name="TestNG" finished-at="2021-08-08T01:58:03 SGT" duration-ms="28655">
     <groups>
       <group name="T&amp;C">
-        <method signature="TestNGPractice1.policy()[pri:8, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="policy" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.policy()[pri:8, instance:TestNGPkg.TestNGPractice1@77a57272]" name="policy" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- T&C -->
       <group name="Contact details">
-        <method signature="TestNGPractice1.keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInEmail" class="TestNGPkg.TestNGPractice1"/>
-        <method signature="TestNGPractice1.keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInPhno" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInEmail" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInPhno" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- Contact details -->
       <group name="Personal Info">
-        <method signature="TestNGPractice1.keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInFirstName" class="TestNGPkg.TestNGPractice1"/>
-        <method signature="TestNGPractice1.keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInLastName" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInFirstName" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInLastName" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- Personal Info -->
       <group name="General">
-        <method signature="TestNGPractice1.submit()[pri:9, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="submit" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.submit()[pri:9, instance:TestNGPkg.TestNGPractice1@77a57272]" name="submit" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- General -->
       <group name="URL">
-        <method signature="TestNGPractice1.openURL()[pri:1, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="openURL" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.openURL()[pri:1, instance:TestNGPkg.TestNGPractice1@77a57272]" name="openURL" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- URL -->
       <group name="Credentials">
-        <method signature="TestNGPractice1.keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInConfirmPwd" class="TestNGPkg.TestNGPractice1"/>
-        <method signature="TestNGPractice1.keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice1@1442d7b5]" name="keyInPwd" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInConfirmPwd" class="TestNGPkg.TestNGPractice1"/>
+        <method signature="TestNGPractice1.keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice1@77a57272]" name="keyInPwd" class="TestNGPkg.TestNGPractice1"/>
       </group> <!-- Credentials -->
     </groups>
-    <test started-at="2021-08-08T00:26:56 SGT" name="Practice1" finished-at="2021-08-08T00:27:12 SGT" duration-ms="15327">
+    <test started-at="2021-08-08T01:57:34 SGT" name="Practice1" finished-at="2021-08-08T01:57:48 SGT" duration-ms="14312">
       <class name="TestNGPkg.TestNGPractice1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:26:56 SGT" name="setUp" finished-at="2021-08-08T00:27:07 SGT" duration-ms="10570" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:34 SGT" name="setUp" finished-at="2021-08-08T01:57:44 SGT" duration-ms="10034" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="openURL()[pri:1, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:07 SGT" name="openURL" finished-at="2021-08-08T00:27:10 SGT" duration-ms="3428" status="PASS">
+        <test-method signature="openURL()[pri:1, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:44 SGT" name="openURL" finished-at="2021-08-08T01:57:47 SGT" duration-ms="3388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openURL -->
-        <test-method signature="keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:10 SGT" name="keyInFirstName" finished-at="2021-08-08T00:27:11 SGT" duration-ms="116" status="PASS">
+        <test-method signature="keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:47 SGT" name="keyInFirstName" finished-at="2021-08-08T01:57:47 SGT" duration-ms="71" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInFirstName -->
-        <test-method signature="keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="keyInLastName" finished-at="2021-08-08T00:27:11 SGT" duration-ms="84" status="PASS">
+        <test-method signature="keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:47 SGT" name="keyInLastName" finished-at="2021-08-08T01:57:47 SGT" duration-ms="61" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInLastName -->
-        <test-method signature="keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="keyInEmail" finished-at="2021-08-08T00:27:11 SGT" duration-ms="138" status="PASS">
+        <test-method signature="keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:47 SGT" name="keyInEmail" finished-at="2021-08-08T01:57:48 SGT" duration-ms="74" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInEmail -->
-        <test-method signature="keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="keyInPhno" finished-at="2021-08-08T00:27:11 SGT" duration-ms="134" status="PASS">
+        <test-method signature="keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:48 SGT" name="keyInPhno" finished-at="2021-08-08T01:57:48 SGT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInPhno -->
-        <test-method signature="keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="keyInPwd" finished-at="2021-08-08T00:27:11 SGT" duration-ms="100" status="PASS">
+        <test-method signature="keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:48 SGT" name="keyInPwd" finished-at="2021-08-08T01:57:48 SGT" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInPwd -->
-        <test-method signature="keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="keyInConfirmPwd" finished-at="2021-08-08T00:27:11 SGT" duration-ms="118" status="PASS">
+        <test-method signature="keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:48 SGT" name="keyInConfirmPwd" finished-at="2021-08-08T01:57:48 SGT" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInConfirmPwd -->
-        <test-method signature="policy()[pri:8, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="policy" finished-at="2021-08-08T00:27:11 SGT" duration-ms="88" status="PASS">
+        <test-method signature="policy()[pri:8, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:48 SGT" name="policy" finished-at="2021-08-08T01:57:48 SGT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- policy -->
-        <test-method signature="submit()[pri:9, instance:TestNGPkg.TestNGPractice1@1442d7b5]" started-at="2021-08-08T00:27:11 SGT" name="submit" finished-at="2021-08-08T00:27:12 SGT" duration-ms="494" status="PASS">
+        <test-method signature="submit()[pri:9, instance:TestNGPkg.TestNGPractice1@77a57272]" started-at="2021-08-08T01:57:48 SGT" name="submit" finished-at="2021-08-08T01:57:48 SGT" duration-ms="430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submit -->
       </class> <!-- TestNGPkg.TestNGPractice1 -->
     </test> <!-- Practice1 -->
-    <test started-at="2021-08-08T00:27:12 SGT" name="Practice2" finished-at="2021-08-08T00:27:27 SGT" duration-ms="15485">
+    <test started-at="2021-08-08T01:57:48 SGT" name="Practice2" finished-at="2021-08-08T01:58:03 SGT" duration-ms="14262">
       <class name="TestNGPkg.TestNGPractice2">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:12 SGT" name="setUp" finished-at="2021-08-08T00:27:22 SGT" duration-ms="9833" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:57:48 SGT" name="setUp" finished-at="2021-08-08T01:57:58 SGT" duration-ms="9427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="openURL()[pri:1, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:22 SGT" name="openURL" finished-at="2021-08-08T00:27:26 SGT" duration-ms="4205" status="PASS">
+        <test-method signature="openURL()[pri:1, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:57:58 SGT" name="openURL" finished-at="2021-08-08T01:58:02 SGT" duration-ms="3957" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openURL -->
-        <test-method signature="keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:26 SGT" name="keyInFirstName" finished-at="2021-08-08T00:27:26 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.openURL" duration-ms="116" status="PASS">
+        <test-method signature="keyInFirstName()[pri:2, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInFirstName" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.openURL" duration-ms="103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInFirstName -->
-        <test-method signature="keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:26 SGT" name="keyInLastName" finished-at="2021-08-08T00:27:26 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInFirstName" duration-ms="138" status="PASS">
+        <test-method signature="keyInLastName()[pri:3, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInLastName" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInFirstName" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInLastName -->
-        <test-method signature="keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:26 SGT" name="keyInEmail" finished-at="2021-08-08T00:27:26 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInLastName" duration-ms="164" status="PASS">
+        <test-method signature="keyInEmail()[pri:4, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInEmail" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInLastName" duration-ms="77" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInEmail -->
-        <test-method signature="keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:26 SGT" name="keyInPhno" finished-at="2021-08-08T00:27:26 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInEmail" duration-ms="128" status="PASS">
+        <test-method signature="keyInPhno()[pri:5, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInPhno" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInEmail" duration-ms="60" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInPhno -->
-        <test-method signature="keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:26 SGT" name="keyInPwd" finished-at="2021-08-08T00:27:27 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInPhno" duration-ms="105" status="PASS">
+        <test-method signature="keyInPwd()[pri:6, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInPwd" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInPhno" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInPwd -->
-        <test-method signature="keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:27 SGT" name="keyInConfirmPwd" finished-at="2021-08-08T00:27:27 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInPwd" duration-ms="104" status="PASS">
+        <test-method signature="keyInConfirmPwd()[pri:7, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="keyInConfirmPwd" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInPwd" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- keyInConfirmPwd -->
-        <test-method signature="policy()[pri:8, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:27 SGT" name="policy" finished-at="2021-08-08T00:27:27 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInConfirmPwd" duration-ms="100" status="PASS">
+        <test-method signature="policy()[pri:8, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="policy" finished-at="2021-08-08T01:58:02 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.keyInConfirmPwd" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- policy -->
-        <test-method signature="submit()[pri:9, instance:TestNGPkg.TestNGPractice2@15d9bc04]" started-at="2021-08-08T00:27:27 SGT" name="submit" finished-at="2021-08-08T00:27:27 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.policy" duration-ms="582" status="PASS">
+        <test-method signature="submit()[pri:9, instance:TestNGPkg.TestNGPractice2@146044d7]" started-at="2021-08-08T01:58:02 SGT" name="submit" finished-at="2021-08-08T01:58:03 SGT" depends-on-methods="TestNGPkg.TestNGPractice2.policy" duration-ms="408" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- submit -->
