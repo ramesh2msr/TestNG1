@@ -1,5 +1,5 @@
 cd C:\Users\msramesh\eclipse-workspace\TestNG1
-set ProjectPath=C:\Users\msramesh\eclipse-workspace\TestNG
+set ProjectPath=C:\Users\msramesh\eclipse-workspace\TestNG1
 echo %ProjectPath%
 set classpath=%ProjectPath%\bin;%ProjectPath%\lib\*
 echo %classpath%

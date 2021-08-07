@@ -24,6 +24,7 @@ public class TestNGPractice2 {
 	@Test(priority=1)
 	public void openURL() {
     driver.get("http://tutorialsninja.com/demo/index.php?route=account/register");
+    System.out.println("i am in practice2");
 	}	
 	
 	@Test(priority=2,dependsOnMethods= {"openURL"})
