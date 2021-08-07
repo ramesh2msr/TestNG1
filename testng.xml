@@ -9,11 +9,11 @@
 		</classes>
 	</test>
 	
- 	<test name="Practice2">
+ 	<!-- <test name="Practice2">
 		<classes>
 			<class name="TestNGPkg.TestNGPractice2" />
 		</classes>
-	</test>
+	</test> -->
 	
 	 
 </suite>
