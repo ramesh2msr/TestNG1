@@ -65,6 +65,7 @@ public class TestNGPractice2 {
 	@Test(priority=9,dependsOnMethods= {"policy"})
 	public void submit() {
 	driver.findElement(By.xpath("//input[@class='btn btn-primary']")).click();
+	System.out.println("done1");
 	}
 	
 	//@AfterMethod
